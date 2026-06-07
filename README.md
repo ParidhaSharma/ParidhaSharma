@@ -1,2 +1,2 @@
-# PatidhaSharma
+# ParidhaSharma
 Personal Github Profile
